@@ -9,6 +9,7 @@
   "author": "David Jiménez Belmonte",
   "license": "ISC",
   "dependencies": {
+    "nodemon": "^2.0.19",
     "superagent": "^8.0.0"
   }
 }
